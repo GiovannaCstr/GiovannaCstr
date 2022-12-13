@@ -1,8 +1,4 @@
-### Oi, Eu sou a Giovanna! 
-
-- 💻 Estudante de Sistemas para internet
-- 🖱 Atuamente aprendendo JavaScript
-- 🌻 Ela/Dela
+### Oi, Eu sou a Giovanna! ✨
 
 <div align="center">
   <a href="https://github.com/GiovannaCstr">
