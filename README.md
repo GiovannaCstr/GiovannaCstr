@@ -1,7 +1,7 @@
 
 <div>
   <img align="right" alt="Giovanna_foto" height="145"; src="https://cdn.discordapp.com/attachments/1052258391160000596/1052336700849930280/imagem.png">
-</div>  
+</div><br><br>  
 <h1>Oi, Eu sou a Giovanna! ✨</h1>
 
 <div align="center"><br><br><br>
