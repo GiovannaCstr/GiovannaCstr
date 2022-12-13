@@ -1,10 +1,10 @@
 
 <div>
-  <img align="right" alt="Giovanna_foto" height="145"; src="https://cdn.discordapp.com/attachments/1052258391160000596/1052336700849930280/imagem.png"><br>
+  <img align="right" alt="Giovanna_foto" height="145"; src="https://cdn.discordapp.com/attachments/1052258391160000596/1052336700849930280/imagem.png">
 </div>  
 <h1>Oi, Eu sou a Giovanna! ✨</h1>
 
-<div align="center">
+<div align="center"><br><br><br>
   <a href="https://github.com/GiovannaCstr">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GiovannaCstr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaCstr&layout=compact&langs_count=7&theme=cobalt"/>
