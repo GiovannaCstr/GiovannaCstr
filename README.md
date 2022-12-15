@@ -6,7 +6,6 @@
 
 Eu sou a Giovanna, 
 - Tenho 21 anos, sou estudante de Sistemas para Internet no centro Universitário Senac. 
-- 💻 Atualmente estou aprendendo JavaScript e busco estagiar na área de Desenvolvimento Front End
 - 🌻 (Ela/Dela)
 
 <div><br>
@@ -25,7 +24,6 @@ Eu sou a Giovanna,
 <div>  
   <a href = "mailto:gpereirac2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/giovannapcastro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href =""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
  ![Snake animation](https://github.com/GiovannaCstr/GiovannaCstr/blob/output/github-contribution-grid-snake.svg)
