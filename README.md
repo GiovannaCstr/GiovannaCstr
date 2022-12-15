@@ -6,6 +6,7 @@
 
 Eu sou a Giovanna, 
 - Tenho 21 anos, sou estudante de Sistemas para Internet no centro Universitário Senac. 
+- 💻 Atualmente estou aprendendo JavaScript e busco estagiar na área de Desenvolvimento Front End
 - 🌻 (Ela/Dela)
 
 <div><br>
