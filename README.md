@@ -10,14 +10,17 @@ Eu sou a Giovanna,
 
 <div><br>
   <a href="https://github.com/GiovannaCstr">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GiovannaCstr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaCstr&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GiovannaCstr&show_icons=true&theme=nightowl"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaCstr&layout=compact&theme=nightowl"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Giovanna-html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Giovanna-css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Giovanna-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Giovanna-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Icone html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Icone css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Icone Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Icone Javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Icone Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />      
+  <img align="center" alt="Icone React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
 </div>
 
 ##
