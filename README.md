@@ -5,7 +5,7 @@
 <h1>Seja Bem-vindo(a) ao meu GitHub! ✨</h1>
 
 Eu sou a Giovanna, 
-- 💻 Tenho 21 anos, sou estudante de Sistemas para Internet no centro Universitário Senac. 
+- 💻 Tenho 22 anos, sou estudante de Sistemas para Internet no centro Universitário Senac. 
 - 🌻 (Ela/Dela)
 
 <div><br>
