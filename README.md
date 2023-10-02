@@ -1,8 +1,5 @@
 
-<div>
-  <img align="right" alt="Giovanna_foto" height="130"; src="https://cdn.discordapp.com/attachments/1052258391160000596/1052336700849930280/imagem.png">
-</div><br>  
-<h1>Seja Bem-vindo(a) ao meu GitHub! ✨</h1>
+<h1>Seja Bem-vindo(a) ao meu GitHub! </h1>
 
 Eu sou a Giovanna, 
 - 💻 Tenho 22 anos, sou estudante de Sistemas para Internet no centro Universitário Senac. 
