@@ -7,8 +7,8 @@ Eu sou a Giovanna,
 
 <div><br>
   <a href="https://github.com/GiovannaCstr">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GiovannaCstr&show_icons=true&theme=nightowl"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaCstr&layout=compact&theme=nightowl"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GiovannaCstr&show_icons=true&theme=aura"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaCstr&layout=compact&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Icone html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
