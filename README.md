@@ -2,7 +2,7 @@
 <h1>Seja Bem-vindo(a) ao meu GitHub! </h1>
 
 Eu sou a Giovanna, 
-- 💻 Tenho 23 anos, sou estudante formada em Sistemas para Internet no centro Universitário Senac e atualmente trabalho como Engenheira de dados jr. 
+- 💻 Tenho 23 anos, sou formada em Sistemas para Internet no centro Universitário Senac e atualmente trabalho como Engenheira de dados jr. 
 
 <div><br>
   <a href="https://github.com/GiovannaCstr">
