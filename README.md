@@ -1,23 +1,24 @@
+<h2>Olá! Eu sou a Giovanna,</h2>  
 
-<h1>Seja Bem-vindo(a) ao meu GitHub! </h1>
-
-Eu sou a Giovanna, 
-- 💻 Tenho 23 anos, sou formada em Sistemas para Internet no centro Universitário Senac e atualmente trabalho como Engenheira de dados jr. 
+- Trabalho como engenheira de IA
+- Sou formada em Sistemas para Internet
+- Atualmente estou cursando Ciência de Dados
 
 <div><br>
   <a href="https://github.com/GiovannaCstr">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GiovannaCstr&show_icons=true&theme=aura"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaCstr&layout=compact&theme=aura"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GiovannaCstr&show_icons=true&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaCstr&layout=compact&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Icone html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Icone css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Icone Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  <img align="center" alt="Icone Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+  <img align="center" alt="Icone Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>            
+  <img align="center" alt="Icone SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+  <img align="center" alt="Icone AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img align="center" alt="Icone Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
+  <img align="center" alt="Icone HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Icone CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img align="center" alt="Icone Javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Icone Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />      
   <img align="center" alt="Icone React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" alt="Icone Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>            
 </div>
 
 ##
